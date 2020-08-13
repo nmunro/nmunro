@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-
-<p>Test
-
-[![asciicast](https://asciinema.org/a/UoHjdW4b1Sdvm8ldm13Q356XI.png)](https://asciinema.org/a/14)
-
 ![Test!](https://github.com/nmunro/nmunro/blob/master/data/test.gif "Test")
 
 
