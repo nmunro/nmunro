@@ -1,21 +1,11 @@
 ### Hi there 👋
 
-![Test!](https://github.com/nmunro/nmunro/blob/master/data/test.gif "Test")
+I'm Neil Munro, or nmunro, I'm a senior software engineer, currently teaching @wearecodenation
 
+- 😄 Pronouns: him/he
+- 📫 How to reach me: [nmunro](github.com/nmunro), [@Neil_Munro](twitter.com/Neil_Munro)
+- 🔭 I’m currently working on Common Lisp tutorials on [YouTube](https://www.youtube.com/watch?v=xyXDE5gP2QI&list=PLCpux10P7KDKPb4eI5b_qSnQaY1ePGKGK)
+- 💬 Ask me about anything you like!
+- ⚡ Fun fact: Generating the below gif erased 50gb of harddrive space for a short time :O
 
-
-
-<!--
-**nmunro/nmunro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Editing Lisp!](https://github.com/nmunro/nmunro/blob/master/data/lisp.gif)
