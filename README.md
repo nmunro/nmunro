@@ -8,4 +8,11 @@ I'm Neil Munro, or nmunro, I'm a senior software engineer, currently teaching @w
 - 💬 Ask me about anything you like!
 - ⚡ Fun fact: Generating the below gif erased 50gb of harddrive space for a short time :O
 
+<a href="https://github.com/nmunro/nmunro">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmunro&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/nmunro/nmunro">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nmunro&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="NMunro's GitHub Stats" />
+</a>
+
 ![Editing Lisp!](https://github.com/nmunro/nmunro/blob/master/data/lisp.gif)
