@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Neil Munro, or nmunro, I'm a senior software engineer, currently teaching [@wearecodenation](https://github.com/wearecodenation)
+I'm Neil Munro, or nmunro, I'm the head of back end engineering at [Elixir](https://www.elixirsoftware.co.uk/)
 
 - 😄 Pronouns: him/he
 - 📫 How to reach me: [nmunro](github.com/nmunro), [@Neil_Munro](twitter.com/Neil_Munro)
